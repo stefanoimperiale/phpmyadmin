@@ -1,3 +1,8 @@
+Used for menage database in OpenShift project
+Change file https://github.com/stefanoimperiale/phpmyadmin/blob/master/config.inc.php, the line
+$cfg['Servers'][$i]['host'] = 'hostname';
+
+
 phpMyAdmin - Readme
 ===================
 
